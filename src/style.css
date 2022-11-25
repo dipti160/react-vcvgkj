@@ -1,0 +1,44 @@
+.wrapper {
+  margin: auto;
+}
+.guess_class {
+  text-align: center;
+  padding: 20px;
+  background-image: linear-gradient(to right, #67b5f6, #98e4fe);
+}
+.total_class {
+  padding-left: 20px;
+}
+.odd_class {
+  font-size: 12px;
+  padding-left: 20px;
+}
+.name_div {
+  font-size: 14px;
+  padding-left: 20px;
+}
+input {
+  margin-left: 20px;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px #000 solid;
+}
+button {
+  margin-left: 5px;
+  padding: 10px;
+  background-color: transparent;
+  border: 1px #000 solid;
+}
+.name_required {
+  padding-left: 20px;
+  color: red;
+  font-size: 12px;
+}
+.ul_class {
+  padding-left: 20px;
+  font-weight: 600;
+}
+
+ul li {
+  font-weight: 600;
+}
